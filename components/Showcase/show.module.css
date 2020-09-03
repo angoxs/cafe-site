@@ -14,27 +14,39 @@
 .case {
   background: #bfe9fc;
   height: 420px;
+  background-image: url("https://images.unsplash.com/photo-1455134168668-4066045897c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   justify-content: center;
   padding: 20px;
-  transition: transform 4s 0.25s cubic-bezier(0, 1, 0.3),
-    opacity 0.3s 0.25s ease-out;
+  transition: all 400ms ease-in-out;
   will-change: transform, opacity;
+  border: none;
 }
 
 .case:hover {
-  background: white;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+  transform: translateY(-8px) rotateZ(-10deg);
 }
 
 .secondcase {
   background: #f5f3ec;
   height: 420px;
+  background-image: url("https://images.unsplash.com/photo-1511759066510-46958c3fffa0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   justify-content: center;
   padding: 20px;
+  transition: all 400ms ease-in-out;
+}
+
+.secondcase:hover {
+  transform: translateY(-8px) rotateZ(-5deg);
 }
 
 .thirdcase {

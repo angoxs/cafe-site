@@ -6,7 +6,6 @@ export default function Showcase() {
       <div className={style.show_grid}>
         <div className={style.case}>
           <div className={style.case_group}>
-            <img src="/basic8.png" />
             <p>SINGLE ORIGIN</p>
             <h2>Ethipia Raro</h2>
             <p>$19.00</p>
@@ -14,7 +13,6 @@ export default function Showcase() {
         </div>
         <div className={style.secondcase}>
           <div className={style.case_group}>
-            <img src="/basic9.png" />
             <p>SINGLE ORIGIN</p>
             <h2>Ethipia Raro</h2>
             <p>$19.00</p>
