@@ -51,4 +51,12 @@
   .box_container {
     padding: 50px 0;
   }
+
+  .box_group button {
+    width: 100%;
+  }
+
+  .box_group {
+    text-align: center;
+  }
 }
