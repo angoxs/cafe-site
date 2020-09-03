@@ -12,7 +12,6 @@
 }
 
 .case {
-  background: #bfe9fc;
   height: 420px;
   background-image: url("https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1556&q=80");
   background-size: cover;
@@ -111,7 +110,7 @@
 }
 
 .thirdcase_group button:hover {
-  background: white;
+  background: #bfe9fc;
   color: black;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
