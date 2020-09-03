@@ -8,15 +8,16 @@ export default function Hero(props) {
     <div className={style.hero}>
       <div className={style.hero_group}>
         <div className={style.title_container}>
-          <span>INTRODUCING</span>
+          <span>CAFINELI</span>
           <Reveal effect="fadeInUp" effectOut="fadeOutLeft">
             <h1>{props.title}</h1>
           </Reveal>
 
           <Fade up>
             <p>
-              Learn to take advantage of other people’s work to further your own
-              cause.
+              We love making new connections, friendships, & relantionships & we
+              might be a little biased, but we thing the best ones start with
+              with coffee!
             </p>
           </Fade>
 

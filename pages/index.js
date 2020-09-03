@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Tip />
-      <Hero title="Home delivery is back!" />
+      <Hero title="El Mejor Cafe!" />
       <Showcase />
     </div>
   );
