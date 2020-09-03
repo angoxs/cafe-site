@@ -4,6 +4,7 @@ import Hero from "../components/Hero/Hero";
 import Tip from "../components/Tip/Tip";
 import Showcase from "../components/Showcase/Showcase";
 import Box from "../components/Box/Box";
+import Insta from "../components/Insta/Insta";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Hero title="El Mejor Cafe!" />
       <Showcase />
       <Box />
+      <Insta />
     </div>
   );
 }
