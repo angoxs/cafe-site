@@ -19,7 +19,7 @@
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
-  align-items: flex-start;
+  align-items: flex-end;
   justify-content: center;
   padding: 20px;
   transition: all 400ms ease-in-out;
@@ -39,7 +39,7 @@
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
-  align-items: flex-start;
+  align-items: flex-end;
   justify-content: center;
   padding: 20px;
   transition: all 400ms ease-in-out;
