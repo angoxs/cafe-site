@@ -5,7 +5,9 @@ export default function Tip() {
     <div className={style.tip_container}>
       <div className={style.tip_grid}>
         <div className={style.left}>
-          <p>Download our app to carry out at any cafe</p>
+          <p>
+            Download our app to carry out <span>at any cafe</span>
+          </p>
         </div>
         <div className={style.right}>
           <p>

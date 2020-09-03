@@ -2,6 +2,7 @@ import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Hero from "../components/Hero/Hero";
 import Tip from "../components/Tip/Tip";
+import Showcase from "../components/Showcase/Showcase";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       </Head>
       <Tip />
       <Hero title="Home delivery is back!" />
+      <Showcase />
     </div>
   );
 }

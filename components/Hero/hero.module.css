@@ -63,7 +63,7 @@
   border: none;
   cursor: pointer;
   transition: transform 4s 0.25s cubic-bezier(0, 1, 0.3),
-    opacity 0.3s 0.25s ease-ou;
+    opacity 0.3s 0.25s ease-out;
   border: 1px solid #272a2d;
   will-change: transform, opacity;
 }
