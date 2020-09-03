@@ -58,5 +58,6 @@
 
   .box_group {
     text-align: center;
+    border-radius: 0;
   }
 }
