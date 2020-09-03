@@ -84,4 +84,15 @@
   .hero {
     padding: 50px 20px;
   }
+
+  .title_container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
 }
