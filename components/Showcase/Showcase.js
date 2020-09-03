@@ -25,7 +25,7 @@ export default function Showcase() {
           </div>
         </Fade>
 
-        <Fade right>
+        <Fade left>
           <div className={style.thirdcase}>
             <div className={style.thirdcase_group}>
               <span>NEW ARRIVALS</span>

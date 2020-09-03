@@ -129,4 +129,8 @@
     padding: 20px;
     margin-bottom: 0;
   }
+
+  .thirdcase_group button {
+    width: 100%;
+  }
 }
