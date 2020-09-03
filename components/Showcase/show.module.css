@@ -25,6 +25,7 @@
   transition: all 400ms ease-in-out;
   will-change: transform, opacity;
   border: none;
+  border-radius: 10px;
 }
 
 .case:hover {
@@ -42,6 +43,7 @@
   align-items: flex-end;
   justify-content: center;
   padding: 20px;
+  border-radius: 10px;
   transition: all 400ms ease-in-out;
 }
 
@@ -73,6 +75,7 @@
   text-align: center;
   background: white;
   width: 100%;
+  border-radius: 5px;
 }
 
 .thirdcase_group h1 {
