@@ -8,7 +8,7 @@ export default function Showcase() {
         <Fade left>
           <div className={style.case}>
             <div className={style.case_group}>
-              <p>SINGLE ORIGIN</p>
+              <p>CAFINELI</p>
               <h2>Ethipia Raro</h2>
               <p>$19.00</p>
             </div>
@@ -18,7 +18,7 @@ export default function Showcase() {
         <Fade bottom up>
           <div className={style.secondcase}>
             <div className={style.case_group}>
-              <p>SINGLE ORIGIN</p>
+              <p>CAFINELI</p>
               <h2>Ethipia Halo Hartume</h2>
               <p>$19.00</p>
             </div>
