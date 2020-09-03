@@ -14,9 +14,9 @@
 .case {
   background: #bfe9fc;
   height: 420px;
-  background-image: url("https://images.unsplash.com/photo-1455134168668-4066045897c3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1100&q=80");
+  background-image: url("https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1556&q=80");
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   display: flex;
   align-items: flex-end;
@@ -34,7 +34,7 @@
 .secondcase {
   background: #f5f3ec;
   height: 420px;
-  background-image: url("https://images.unsplash.com/photo-1511759066510-46958c3fffa0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80");
+  background-image: url("https://images.unsplash.com/photo-1512568400610-62da28bc8a13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -71,6 +71,8 @@
 
 .case_group {
   text-align: center;
+  background: white;
+  width: 100%;
 }
 
 .thirdcase_group h1 {
