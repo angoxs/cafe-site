@@ -19,7 +19,7 @@ export default function Showcase() {
           <div className={style.secondcase}>
             <div className={style.case_group}>
               <p>SINGLE ORIGIN</p>
-              <h2>Ethipia Raro</h2>
+              <h2>Ethipia Halo Hartume</h2>
               <p>$19.00</p>
             </div>
           </div>

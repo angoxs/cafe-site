@@ -73,12 +73,6 @@
   text-align: center;
 }
 
-.case_group img {
-  width: 100%;
-  padding: 20px;
-  margin-bottom: 80px;
-}
-
 .thirdcase_group h1 {
   font-size: 30px;
   font-weight: 400;
@@ -87,6 +81,8 @@
 .thirdcase_group p {
   font-size: 14px;
   font-weight: 400;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 .thirdcase_group {
@@ -132,5 +128,8 @@
 
   .thirdcase_group button {
     width: 100%;
+  }
+  .thirdcase {
+    padding: 0;
   }
 }
