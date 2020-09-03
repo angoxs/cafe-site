@@ -5,6 +5,7 @@ import Tip from "../components/Tip/Tip";
 import Showcase from "../components/Showcase/Showcase";
 import Box from "../components/Box/Box";
 import Insta from "../components/Insta/Insta";
+import Footer from "../components/Footer/Footer";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Showcase />
       <Box />
       <Insta />
+      <Footer />
     </div>
   );
 }
