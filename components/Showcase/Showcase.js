@@ -3,7 +3,7 @@ import Fade from "react-reveal/Fade";
 
 export default function Showcase() {
   return (
-    <div className={style.show_container}>
+    <div className={style.show_container} id="learnmore">
       <div className={style.show_grid}>
         <Fade left>
           <div className={style.case}>

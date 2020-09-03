@@ -2,6 +2,7 @@ import { styles } from "styled-system";
 import Fade from "react-reveal/Reveal";
 import style from "./hero.module.css";
 import Reveal from "react-reveal/Reveal";
+import { Link } from "react-scroll";
 
 export default function Hero(props) {
   return (
@@ -22,7 +23,9 @@ export default function Hero(props) {
           </Fade>
 
           <Fade up>
-            <button className={style.btn}>LEARN MORE</button>
+            <Link to="learnmore">
+              <button className={style.btn}>LEARN MORE</button>
+            </Link>
           </Fade>
         </div>
       </div>
